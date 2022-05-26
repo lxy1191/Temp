@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         test("22");
         new Test().temp("123");
 
-        Log.e("qqq","six");
+        Log.e("qqq","seven");
 
     }
 
