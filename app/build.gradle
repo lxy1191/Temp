@@ -73,9 +73,9 @@ dependencies {
 
     //Repair
 //    implementation 'com.github.lxy1191:Repair:1.0.3'
-    implementation project(path: ':repair')
+//    implementation project(path: ':repair')
 
     implementation project(path: ':anno')
-    annotationProcessor project(path: ':apt')
+//    annotationProcessor project(path: ':apt')
 
 }
