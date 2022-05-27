@@ -3,6 +3,7 @@ pluginManagement {
     repositories {
         gradlePluginPortal()
         google()
+        mavenCentral()
         maven { url uri('D:\\EasyWebServer\\EasyWebSvr\\Maven\\plugins') }
     }
 }
@@ -23,3 +24,5 @@ include ':app'
 include ':plugin'
 //include ':mylibrary'
 include ':repair'
+include ':apt'
+include ':anno'
